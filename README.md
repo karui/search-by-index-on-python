@@ -14,5 +14,5 @@
 - Поиск одного слова: `python main.py -s index.txt java`
 - Поиск нескольких слов `python main.py -s index.txt junior java jeveloper`
 - Поиск фразы: `python main.py -s index.txt "junior java jeveloper"`
-- Поиск с логическими операторами: `python main.py -s index.txt junior or java and jeveloper not python"`
+- Поиск с логическими операторами: `python main.py -s index.txt junior or java and developer not python"`
 - Комбинация всего: `python main.py -s index.txt "белая зп" not "один из лидеров" and junior or hh` 
